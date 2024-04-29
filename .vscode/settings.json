@@ -77,7 +77,7 @@
   },
 
   // ==========  Global Level Config
-  "window.title": "${rootName}",
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
   "window.titleBarStyle": "custom",
   "extensions.autoUpdate": "onlyEnabledExtensions",
 

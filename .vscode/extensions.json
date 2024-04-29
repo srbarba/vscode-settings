@@ -1,0 +1,29 @@
+{
+  "recommendations": [
+    "antfu.browse-lite",
+    "antfu.iconify",
+    "antfu.theme-vitesse",
+
+    "rohit-gohri.format-code-action",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "Vue.volar",
+    "GitHub.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "github.vscode-github-actions",
+    "GitHub.vscode-pull-request-github",
+    "znck.grammarly",
+
+    "vitest.explorer",
+    "Postman.postman-for-vscode"
+
+    // optional
+    // "zh9528.file-size",
+    // "logerfo.gzip-status",
+    // "wix.vscode-import-cost"
+  ]
+}
